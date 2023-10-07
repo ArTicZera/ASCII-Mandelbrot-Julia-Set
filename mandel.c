@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define W 80
-#define H 35
+#define W 150
+#define H 50
 
 typedef struct
 {
