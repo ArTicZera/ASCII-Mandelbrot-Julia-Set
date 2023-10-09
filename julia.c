@@ -20,7 +20,7 @@ int calculatejulia(int x, int y, int maxiter)
     c.zy = 0.27f;
 
     z.zx = x * fractal.zx - 1.4f;
-    z.zy = y * fractal.zy - 1.f;
+    z.zy = y * fractal.zy - 1.ff;
 
     int iter = 0;
 
